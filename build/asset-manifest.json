@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/switch-color-theme-code/static/css/main.029eca18.css",
+    "main.js": "/switch-color-theme-code/static/js/main.cb99c593.js",
+    "static/media/icon-instagram.svg": "/switch-color-theme-code/static/media/icon-instagram.568b5795d56c7d9247f495cb5488f8be.svg",
+    "index.html": "/switch-color-theme-code/index.html",
+    "static/media/icon-twitter.svg": "/switch-color-theme-code/static/media/icon-twitter.a0c5f64d440de29ad911970d8d8eb821.svg",
+    "static/media/icon-youtube.svg": "/switch-color-theme-code/static/media/icon-youtube.cad14335e1f2ede979c61c8cb1a6f6f5.svg",
+    "static/media/icon-facebook.svg": "/switch-color-theme-code/static/media/icon-facebook.8deee3e3b5c57f63a1f487e146852570.svg",
+    "static/media/icon-down.svg": "/switch-color-theme-code/static/media/icon-down.0c77426d8f1ab70c4ae6.svg",
+    "static/media/icon-up.svg": "/switch-color-theme-code/static/media/icon-up.359200b20d83a37cfb26.svg",
+    "main.029eca18.css.map": "/switch-color-theme-code/static/css/main.029eca18.css.map",
+    "main.cb99c593.js.map": "/switch-color-theme-code/static/js/main.cb99c593.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.029eca18.css",
+    "static/js/main.cb99c593.js"
+  ]
+}
